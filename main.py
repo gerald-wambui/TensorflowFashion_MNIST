@@ -4,6 +4,9 @@
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
 
+# Install TensorFlow Datasets
+!pip install -U tensorflow_datasets
+
 import tensorflow as tf
 # import datasets
 import tensorflow_dataset as tfds
